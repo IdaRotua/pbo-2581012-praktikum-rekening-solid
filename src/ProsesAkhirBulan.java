@@ -1,4 +1,4 @@
-/
+
 public class ProsesAkhirBulan {
 
     public void potongBiayaAdmin(Rekening[] semua) {

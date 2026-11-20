@@ -1,4 +1,4 @@
-/
+
 public class Deposito extends Rekening implements BerBunga {
     private double bungaPersen;
 
